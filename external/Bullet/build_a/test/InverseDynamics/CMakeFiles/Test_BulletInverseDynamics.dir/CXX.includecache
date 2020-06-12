@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/InverseDynamics/test_invdyn_kinematics.cpp
+cmath
+-
+cstdio
+-
+cstdlib
+-
+iostream
+-
+gtest/gtest.h
+-
+../Extras/InverseDynamics/CoilCreator.hpp
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/Extras/InverseDynamics/CoilCreator.hpp
+../Extras/InverseDynamics/DillCreator.hpp
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/Extras/InverseDynamics/DillCreator.hpp
+../Extras/InverseDynamics/SimpleTreeCreator.hpp
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/Extras/InverseDynamics/SimpleTreeCreator.hpp
+BulletInverseDynamics/MultiBodyTree.hpp
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/InverseDynamics/BulletInverseDynamics/MultiBodyTree.hpp
+

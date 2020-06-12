@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/Extras/GIMPACTUtils/btGImpactConvexDecompositionShape.cpp
+btGImpactConvexDecompositionShape.h
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/Extras/GIMPACTUtils/btGImpactConvexDecompositionShape.h
+BulletCollision/CollisionShapes/btConvexHullShape.h
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/Extras/GIMPACTUtils/BulletCollision/CollisionShapes/btConvexHullShape.h
+ConvexBuilder.h
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/Extras/GIMPACTUtils/ConvexBuilder.h
+
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/Extras/GIMPACTUtils/btGImpactConvexDecompositionShape.h
+BulletCollision/Gimpact/btGImpactShape.h
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/Extras/GIMPACTUtils/BulletCollision/Gimpact/btGImpactShape.h
+

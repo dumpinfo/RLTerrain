@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/gtest-1.7.0/src/gtest-all.cc
+gtest/gtest.h
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/gtest-1.7.0/src/gtest/gtest.h
+src/gtest.cc
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/gtest-1.7.0/src/src/gtest.cc
+src/gtest-death-test.cc
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/gtest-1.7.0/src/src/gtest-death-test.cc
+src/gtest-filepath.cc
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/gtest-1.7.0/src/src/gtest-filepath.cc
+src/gtest-port.cc
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/gtest-1.7.0/src/src/gtest-port.cc
+src/gtest-printers.cc
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/gtest-1.7.0/src/src/gtest-printers.cc
+src/gtest-test-part.cc
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/gtest-1.7.0/src/src/gtest-test-part.cc
+src/gtest-typed-test.cc
+/disk2/MotionDev/TerrainTest/OKMIMIC/TerrainRLSim/external/Bullet/test/gtest-1.7.0/src/src/gtest-typed-test.cc
+
